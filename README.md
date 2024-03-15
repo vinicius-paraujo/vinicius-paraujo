@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Meu nome é Marcos Vinicius, tenho 18 anos e sou um estudante de programação. Tenho experiência no desenvolvimento de sistemas, com especialização no back-end. Busco maiores experiências na área.
+Meu nome é Marcos Vinicius, tenho 18 anos e sou um estudante de programação cursando Ciência da Computação pela Universidade Federal do Ceará (UFC). Tenho experiência no desenvolvimento de sistemas, com especialização no back-end. Busco maiores experiências na área.
 
 ## Experiência e Habilidades
 
