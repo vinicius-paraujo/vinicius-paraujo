@@ -1,11 +1,10 @@
-## Sobre Mim
+## About Me
 
-Meu nome é Marcos Vinicius, tenho 18 anos e sou um estudante de programação cursando Ciência da Computação pela Universidade Federal do Ceará (UFC). Tenho experiência no desenvolvimento de sistemas, com especialização no back-end. Busco maiores experiências na área.
+My name is Marcos Vinicius, I'm 18 years old, and I'm a programming student majoring in Computer Science at the Federal University of Ceará (UFC). I have experience in system development, with a focus on back-end specialization. I'm seeking further experiences in the field.
 
-## Experiência e Habilidades
+## Experience and Skills
 
 <div align="center">
-  <!-- Insira aqui logos das linguagens de programação e frameworks -->
   <img src="https://i.imgur.com/XO2LHH8.png" alt="Java" width="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" width="50px">
   <img src="https://i.imgur.com/p6XOtSB.png" alt="TypeScript" width="50px" height="auto" >
@@ -16,6 +15,6 @@ Meu nome é Marcos Vinicius, tenho 18 anos e sou um estudante de programação c
   <img src="https://i.imgur.com/QMCGDby.png" alt="Node" width="80px">
 </div>
 
-## Contato
+## Contact
 
 - Email: vinicius.paraujo3@gmail.com
