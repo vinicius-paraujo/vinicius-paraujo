@@ -1,3 +1,5 @@
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/vinicius-paraujo/vinicius-paraujo/README.pt-br.md)
+
 ## About Me
 
 My name is Marcos Vinicius, I'm 18 years old, and I'm a programming student majoring in Computer Science at the Federal University of Ceará (UFC). I have experience in system development, with a focus on back-end specialization. I'm seeking further experiences in the field.
