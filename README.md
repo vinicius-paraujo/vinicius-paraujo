@@ -15,6 +15,7 @@ My name is Marcos Vinicius, I'm 18 years old, and I'm a programming student majo
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="NoSQL" width="150px" height="auto" >
   <img src="https://i.imgur.com/jHppuIp.png" alt="React Native" width="50px">
   <img src="https://i.imgur.com/QMCGDby.png" alt="Node" width="80px">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png" alt="Redis" width="50px">
 </div>
 
 ## Contact
